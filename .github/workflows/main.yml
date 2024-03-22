@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: nehapandharpurkar/dockerimages:latest
+          tags: neharp/demo1.0:latest
